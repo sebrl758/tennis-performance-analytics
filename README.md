@@ -52,5 +52,4 @@ update_data/
 - **Update Data**: Script to continuously update the dataset with new match data  
 
 ## Purpose
-The goal of this project is to move beyond surface-level statistics and identify the key drivers of match outcomes. By isolating specific performance gaps and quantifying their impact, this analysis provides a structured roadmap for improving consistency and advancing toward top-tier performance.
-The goal of this project is to move beyond surface-level statistics and identify the key drivers of match outcomes. By isolating specific performance gaps and quantifying their impact, this analysis provides a structured roadmap for improving consistency and advancing toward top-tier performance.
+The goal of this project was to not only build data analytics and AI skills but also to hopefully reach out to the team of Learner Tien to present to them my work. I really enjoyed working on this and spending the time to pull the data and figure out the best ways to present it and convert it into actionable steps. 
